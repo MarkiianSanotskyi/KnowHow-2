@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="en_panogroup14_title"><![CDATA[Group 14]]></data>
+
+  <data name="en_pano9_title"><![CDATA[Гостиная]]></data>
+  <data name="en_spotpoint688_tooltip"><![CDATA[Полный комплект постельного белья]]></data>
+  <data name="en_spotpoint689_tooltip"><![CDATA[Халаты]]></data>
+  <data name="en_spotpoint690_tooltip"><![CDATA[Одноразовые тапочки]]></data>
+  <data name="en_spotpoint697_tooltip"><![CDATA[Балкон]]></data>
+  <data name="en_spotpoint2107_tooltip"><![CDATA[Камин]]></data>
+  <data name="en_spotpoint2108_tooltip"><![CDATA[Кондиционер]]></data>
+  <data name="en_pano13_title"><![CDATA[Спальня]]></data>
+  <data name="en_pano11_title"><![CDATA[Кухня]]></data>
+  <data name="en_spotpoint691_tooltip"><![CDATA[Кухонные принадлежности]]></data>
+  <data name="en_spotpoint692_tooltip"><![CDATA[Кухонные принадлежности]]></data>
+  <data name="en_spotpoint693_tooltip"><![CDATA[Кухонные принадлежности]]></data>
+  <data name="en_spotpoint694_tooltip"><![CDATA[Микроволновая печь]]></data>
+  <data name="en_pano15_title"><![CDATA[Ванная комната]]></data>
+  <data name="en_spotpoint695_tooltip"><![CDATA[Одноразовый шампунь и полотенца]]></data>
+
+
+	<data name="en_spotmap679_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap680_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap681_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap682_tooltip"><![CDATA[]]></data>
+
+
+
+	<data name="en_panogroup14_floor_title"><![CDATA[Group 14]]></data>
+	<data name="en_spotmap684_tooltip"><![CDATA[Гостиная]]></data>
+	<data name="en_spotmap685_tooltip"><![CDATA[Спальня]]></data>
+	<data name="en_spotmap686_tooltip"><![CDATA[Кухня]]></data>
+	<data name="en_spotmap687_tooltip"><![CDATA[Ванная комната]]></data>
+
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[налево]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[направо]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[вверх]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[вниз]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[начать автотур]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[остановить автотур]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[включить миниатюры]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[отключить миниатюры]]></data>
+  <data name="en_controlBar_classicgyroOnTip"><![CDATA[включить гироскоп]]></data>
+  <data name="en_controlBar_classicgyroOffTip"><![CDATA[отключить гироскоп]]></data>
+  <data name="en_controlBar_classicdisplayFloorplanTip"><![CDATA[показать план]]></data>
+  <data name="en_controlBar_classichideFloorplanTip"><![CDATA[отключить план]]></data>
+  <data name="en_controlBar_classicdisplayMapTip"><![CDATA[показать на карте]]></data>
+  <data name="en_controlBar_classichideMapTip"><![CDATA[отключить карту]]></data>
+  <data name="en_controlBar_classicshareTip"><![CDATA[рассказать друзьям]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[развернуть панель управления]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[свернуть панель управления]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://0983221000.com]]></data>
+  <data name="en_logotooltipText"><![CDATA[перейти на сайт]]></data>
+  <data name="en_logo1websiteurl"><![CDATA[http://0983221000.com]]></data>
+  <data name="en_logo1tooltipText"><![CDATA[перейти на сайт]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_panotourmapskey"><![CDATA[]]></data>
+
+
+
+
+
+
+</krpano>

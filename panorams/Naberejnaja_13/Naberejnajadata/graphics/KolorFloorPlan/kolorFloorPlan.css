@@ -1,0 +1,40 @@
+div.floorplanContent {
+	position: relative;
+	overflow: hidden;
+	
+}
+
+div.floorplanItem {
+	z-index: 0;
+}
+
+div.floorplanCompass {
+	display: none;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	z-index: 1;
+}
+
+div.floorplanSpotRadar {
+	display: none;
+	position: absolute;
+	z-index: 2;
+}
+
+div.floorplanSpot {
+	position: absolute;
+	text-align: center;
+	z-index: 3;
+}
+
+div.floorplanSpot img {
+	cursor: pointer;
+}
+
+p.floorplanSpotLabel {
+	font-family: arial,helvetica;
+	font-size: 12px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	cursor: pointer;
+}

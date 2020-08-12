@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="en_panogroup14_title"><![CDATA[Первый этаж]]></data>
+
+  <data name="en_pano13_title"><![CDATA[2Viranda_6x3_Lroom_0]]></data>
+  <data name="en_pano11_title"><![CDATA[Stolovaja_6x3_Lroom_0]]></data>
+  <data name="en_pano9_title"><![CDATA[Spalnja_6x3_Lroom_0]]></data>
+
+  <data name="en_panogroup16_title"><![CDATA[Вотрой этаж]]></data>
+
+  <data name="en_pano15_title"><![CDATA[Korridor_6x3_Lroom_0]]></data>
+  <data name="en_pano19_title"><![CDATA[Balkon_6x3_Lroom_0]]></data>
+
+  <data name="en_panogroup18_title"><![CDATA[Нулевой этаж]]></data>
+
+  <data name="en_pano17_title"><![CDATA[22Podval_6x3_Lroom_0]]></data>
+
+
+
+
+
+	<data name="en_panogroup14_floor_title"><![CDATA[Первый этаж]]></data>
+	<data name="en_spotmap65_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap66_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap67_tooltip"><![CDATA[]]></data>
+	<data name="en_panogroup16_floor_title"><![CDATA[Вотрой этаж]]></data>
+	<data name="en_spotmap69_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap70_tooltip"><![CDATA[]]></data>
+	<data name="en_panogroup18_floor_title"><![CDATA[Нулевой этаж]]></data>
+	<data name="en_spotmap72_tooltip"><![CDATA[]]></data>
+
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[увеличить]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[уменьшить]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[налево]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[направо]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[вверх]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[вниз]]></data>
+  <data name="en_controlBar_classichomeTip"><![CDATA[домой]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[полноэкранный режим]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[выйти из полноэкранного режима]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[запустить автотур]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[остановить автотур]]></data>
+  <data name="en_controlBar_classicgyroOnTip"><![CDATA[включить гироскоп]]></data>
+  <data name="en_controlBar_classicgyroOffTip"><![CDATA[отключить гироскоп]]></data>
+  <data name="en_controlBar_classicdisplayFloorplanTip"><![CDATA[показать план]]></data>
+  <data name="en_controlBar_classichideFloorplanTip"><![CDATA[убрать план]]></data>
+  <data name="en_controlBar_classicshareTip"><![CDATA[рассказать друзьям]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[помощь]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[закрыть окно]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[открыть панель управления]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[свернуть панель управления]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Выберите этаж]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>

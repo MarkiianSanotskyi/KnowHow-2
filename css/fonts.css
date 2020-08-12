@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'gardenscregular';
+    src: url('../fonts/gardensc_03-webfont.eot');
+    src: url('../fonts/gardensc_03-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/gardensc_03-webfont.woff2') format('woff2'),
+         url('../fonts/gardensc_03-webfont.woff') format('woff'),
+         url('../fonts/gardensc_03-webfont.ttf') format('truetype'),
+         url('../fonts/gardensc_03-webfont.svg#gardenscregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('../fonts/bebasneuebold-webfont.eot');
+    src: url('../fonts/bebasneuebold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneuebold-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneuebold-webfont.woff') format('woff'),
+         url('../fonts/bebasneuebold-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneuebold-webfont.svg#bebas_neuebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

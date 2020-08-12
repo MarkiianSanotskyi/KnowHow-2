@@ -1,0 +1,48 @@
+@media only screen and (max-device-height:800px)
+{/*
+.rslides h3 {
+    font-family: BebasNeueBold;
+    color: white;
+    font-size: 40px;
+    text-align: right;
+margin-right: 93px;
+margin-top: 35px;
+}
+.rslides h1 {
+font-family: BebasNeueBold;
+color: white;
+font-size: 100px;
+margin-left: 65px;
+}*/
+.in_option, .out_option {
+display: inline-block;
+font-family: Futura-Condensed-Plain;
+font-size: 48px;
+width: 456px;
+display: inline-block;
+text-align: left;
+padding-left: 30px;
+float: left;
+}
+.left {
+width: 47%;
+display: inline-block;
+font-family: MyriadPro-Regular;
+margin-left: 21px;
+}
+.mess{
+margin-left:21px;
+font-family: MyriadPro-Regular;
+color: #7a797a;
+}
+.textar {
+width: 935px!important;
+margin-left: 21px;
+position: relative;
+left: 21px;
+}
+}
+.mess{
+font-family: MyriadPro-Regular;
+color: #7a797a;
+}
